@@ -8,4 +8,4 @@ change the dataset path to your dataset path
 download code from the kaggle, you may have to download a kaggle.json from you side. And drag the all 
 .py file into the colab. Then start it.
 
-![alt text](http://image1.png)
+![alt text](./image1.png)
