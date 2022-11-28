@@ -9,3 +9,5 @@ download code from the kaggle, you may have to download a kaggle.json from you s
 .py file into the colab. Then start it.
 
 ![alt text](./image1.png)
+
+![alt text](./image2.png)
