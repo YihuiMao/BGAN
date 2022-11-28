@@ -1,4 +1,5 @@
 # BicycleGAN Implementation
+https://arxiv.org/pdf/1711.11586.pdf
 change the dataset path to your dataset path 
 (line 22 , 23 in train.py and line 32 in dataset.py) 
 
